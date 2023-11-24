@@ -1,0 +1,10 @@
+{
+  "name": "jwt-under-the-hood",
+  "version": "1.0.0",
+  "description": "JWT UNDER THE HOOD",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Evgen Kotlyarchuk"
+}
